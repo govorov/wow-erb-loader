@@ -21,7 +21,7 @@ $ npm install wow-erb-loader --save-dev
 
 module.exports = {
   preLoaders: [
-  	//assumes rails binary is ./bin/rails
+    //assumes rails binary is ./bin/rails
     { test: /\.erb$/, loader: 'wow-erb-loader' },
     //provide custom rails binary path
     { test: /\.erb$/, loader: 'wow-erb-loader?rails=../bin/rails' },
