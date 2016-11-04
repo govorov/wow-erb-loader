@@ -1,0 +1,27 @@
+{
+  "name": "wow-erb-loader",
+  "version": "0.1.0",
+  "description": "Another ERB loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govorov/wow-erb-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "erb",
+    "rails",
+    "ruby",
+    "ruby on rails"
+  ],
+  "author": "Stanislav E. Govorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/govorov/wow-erb-loader/issues"
+  },
+  "homepage": "https://github.com/govorov/wow-erb-loader#readme"
+}
